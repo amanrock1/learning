@@ -8,7 +8,8 @@ let accountState
 // accountId = 2 // not allowed same reason 
 /* 
 ->prefer not to use var cause of issue in block and functional scope
-->aur agar data type define nhi bhi kiya to chalega for eg accountCity main define nhi kiay toh bhi chalega 
+->aur agar data type define nhi bhi kiya to chalega for eg accountCity main define nhi kiya toh bhi chalega 
+"lekin strict mode main nhi chalega usmain data type define karna padega "let" 
 -> agar js main variable define kar ke chod dete hai aur usmain value nhi dalte to voh 'undefined' dikhata hai 
 
 */
